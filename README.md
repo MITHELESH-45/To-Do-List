@@ -22,7 +22,6 @@ This project allows users to add tasks, mark them as completed, and delete them.
 
 ## 🌍 Live Demo
 👉 [View on Netlify](https://mithultodo.netlify.app/)  
-*(Replace with your actual Netlify URL after deployment)*  
 
 ---
 
